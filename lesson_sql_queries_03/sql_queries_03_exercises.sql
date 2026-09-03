@@ -161,11 +161,6 @@
 /* ----------------------------------------------------------------
    Part 4 -- Exercise 4.6: Find the suspect
 
-   Between the two statements, you now know the suspect is a man,
-   is probably a gold member at "Get Fit Now Gym," drove a car
-   with a plate containing "H42W," and was at the gym on
-   2018-01-09.
-
    Using the data you've compiled so far and your knowledge of the
    database, can you identify our shooter? (HINT: This requires
    joining multiple tables.)
