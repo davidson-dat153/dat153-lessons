@@ -81,6 +81,21 @@
 /* ----------------------------------------------------------------
    Part 4 -- Exercise 4.1
 
+   Write a query that finds every actor whose oscar_nominations is
+   greater than the AVERAGE oscar_nominations for actors who share
+   their primary_genre, this time using a DERIVED TABLE in the
+   FROM clause instead of a correlated subquery. Build the
+   per-genre averages as a subquery aliased g in FROM, join it
+   back to actors, and filter in the outer query's WHERE clause.
+   Return first_name, last_name, primary_genre, and
+   oscar_nominations, sorted by primary_genre.
+   ---------------------------------------------------------------- */
+
+
+
+/* ----------------------------------------------------------------
+   Part 5 -- Exercise 5.1
+
    Write a CTE named genre_avg_height that computes the average
    height_cm for each primary_genre. Then write a main query that
    joins the actors table back to your CTE to return every actor's
@@ -91,9 +106,9 @@
 
 
 /* ----------------------------------------------------------------
-   Part 4 -- Exercise 4.2
+   Part 5 -- Exercise 5.2
 
-   Extend Exercise 4.1 by adding a CASE expression to the main
+   Extend Exercise 5.1 by adding a CASE expression to the main
    query that labels each actor 'Above Average' or 'Below Average'
    depending on whether their height_cm is greater than their
    genre's average height (from the CTE). Sort by primary_genre,
