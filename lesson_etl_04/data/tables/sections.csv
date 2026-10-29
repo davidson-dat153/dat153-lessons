@@ -1,0 +1,677 @@
+term_code,crn,subject_code,course_number,section,course_title,credits,enrollment_current,enrollment_max
+202601,10003,AFR,101,A,Intro to Africana Studies,1,22,30
+202601,10004,AFR,130,A,African American Lit & Environ,1,28,30
+202601,10005,AFR,247,A,Black Women's Biography,1,10,20
+202601,10006,AFR,251,A,"Thugs,Jezebels,&Contemp Pol",1,18,20
+202601,10007,AFR,271,A,Disease Desire Black Vis Cultr,1,13,15
+202601,10008,AFR,283,A,Gender & Literary Geographies,1,4,25
+202601,10010,AFR,332,A,Black Leaders Africa&Caribbean,1,15,15
+202601,10011,AFR,350,A,Southern Black Education Hist,1,22,25
+202601,10013,AFR,495,A,Africana Capstone,1,2,25
+202601,10014,ANT,101,A,Intro Cultural Anthropology,1,26,30
+202601,10015,ANT,102,A,Human Evolution,1,19,20
+202601,10016,ANT,209,A,African Diaspora Archaeology,1,6,15
+202601,10017,ANT,227,A,Environ Justice Latin America,1,19,22
+202601,10018,ANT,235,A,Debunking Race,1,15,15
+202601,10019,ANT,323,A,Human Rights in Latin America,1,10,12
+202601,10020,ANT,343,A,Feminist Anthropology,1,10,15
+202601,10021,ANT,371,A,Ethnographic Writing,1,10,15
+202601,10022,ANT,380,A,Ethical Archaeological Res,1,14,15
+202601,10023,ANT,490,A,Senior colloquium,1,8,15
+202601,10024,ARB,101,A,Elementary Arabic I,1,14,25
+202601,10025,ARB,201,A,Intermediate Arabic I,1,9,20
+202601,10027,ARB,326,B,Political Parodies in Syria,1,8,20
+202601,10028,ART,101,A,Basic Drawing,1,8,7
+202601,10029,ART,101,B,Basic Drawing,1,7,7
+202601,10030,ART,103,A,Basic Painting,1,6,6
+202601,10031,ART,103,B,Basic Painting,1,5,6
+202601,10032,ART,105,A,Introduction to Print Media,1,6,6
+202601,10033,ART,105,B,Introduction to Print Media,1,7,6
+202601,10034,ART,107,A,Introduction to Works on Paper,1,5,6
+202601,10035,ART,107,B,Introduction to Works on Paper,1,5,6
+202601,10036,ART,109,A,Basic Sculpture,1,5,5
+202601,10037,ART,109,B,Basic Sculpture,1,5,5
+202601,10038,ART,109,C,Basic Sculpture,1,5,5
+202601,10039,ART,109,D,Basic Sculpture,1,5,5
+202601,10040,ART,111,A,Introduction to Digital Art,1,6,6
+202601,10041,ART,111,B,Introduction to Digital Art,1,6,6
+202601,10042,ART,111,C,Introduction to Digital Art,1,6,6
+202601,10043,ART,111,D,Introduction to Digital Art,1,6,6
+202601,10044,ART,201,A,Advanced Drawing,1,8,13
+202601,10045,ART,232,A,20th-c. Art: Post-Impr to PoMo,1,16,30
+202601,10046,ART,233,A,The Arts Along the Silk Roads,1,30,30
+202601,10047,ART,401,A,Senior Exhibition/Examination,1,7,13
+202601,10048,ART,402,A,Capstone Seminar/Art History,1,7,15
+202601,10049,BIO,115,A,"Molecules, Genes, & Cells +Lab",1,16,16
+202601,10050,BIO,115,B,"Molecules, Genes, & Cells +Lab",1,16,16
+202601,10051,BIO,115,C,"Molecules, Genes, & Cells +Lab",1,15,16
+202601,10052,BIO,115,D,"Molecules, Genes, & Cells +Lab",1,16,16
+202601,10053,BIO,115,E,"Molecules, Genes, & Cells +Lab",1,16,16
+202601,10054,BIO,115,F,"Molecules, Genes, & Cells +Lab",1,16,16
+202601,10055,BIO,116,A,"Evolution,Physiol,Ecology +Lab",1,16,16
+202601,10056,BIO,116,B,"Evolution,Physiol,Ecology +Lab",1,16,16
+202601,10057,BIO,116,C,"Evolution,Physiol,Ecology +Lab",1,15,16
+202601,10058,BIO,116,D,"Evolution,Physiol,Ecology +Lab",1,14,16
+202601,10059,BIO,116,E,"Evolution,Physiol,Ecology +Lab",1,16,16
+202601,10060,BIO,116,F,"Evolution,Physiol,Ecology +Lab",1,16,16
+202601,10062,BIO,201,A,Genetics +Lab,1,15,16
+202601,10063,BIO,201,B,Genetics +Lab,1,12,16
+202601,10064,BIO,208,A,Cell Biology +Lab,1,16,15
+202601,10065,BIO,208,B,Cell Biology +Lab,1,16,15
+202601,10066,BIO,240,A,Biostats for Life Scientists,1,20,20
+202601,10067,BIO,240,B,Biostats for Life Scientists,1,20,20
+202601,10068,BIO,251,A,Light Microscopy,1,12,12
+202601,10069,BIO,261,A,Neuroscience of Exercise,1,23,20
+202601,10070,BIO,261,B,Neuroscience of Exercise,1,20,20
+202601,10071,BIO,262,A,Antiracist Physiol & Medicine,1,18,16
+202601,10072,BIO,269,A,"Genetics, Gender, Disability",1,7,12
+202601,10073,BIO,269,B,"Genetics, Gender, Disability",1,7,12
+202601,10074,BIO,303,A,Biochemistry +Lab,1,16,16
+202601,10075,BIO,303,B,Biochemistry +Lab,1,15,16
+202601,10076,BIO,320,A,Plant Adaptations +Lab,1,8,16
+202601,10077,BIO,320,B,Plant Adaptations +Lab,1,10,16
+202601,10078,BIO,321,A,Ecology +Lab,1,16,16
+202601,10079,BIO,321,B,Ecology +Lab,1,16,16
+202601,10080,BIO,331,A,Psy Research: Behavioral Neuro,1,0,0
+202601,10081,BIO,343,A,Laboratory Methods in Genomics,1,11,18
+202601,10082,BIO,360,A,Biology of HIV/AIDS,1,14,14
+202601,10083,BIO,365,A,Biology of Cancer,1,16,15
+202601,10084,BIO,368,A,Health Care Issues in Zambia,1,8,9
+202601,10085,CHE,107,A,Chemistry in Our World +Lab,1,13,16
+202601,10086,CHE,107,B,Chemistry in Our World +Lab,1,11,16
+202601,10087,CHE,115,A,Principles of Chemistry +Lab,1,15,16
+202601,10088,CHE,115,B,Principles of Chemistry +Lab,1,15,16
+202601,10089,CHE,115,C,Principles of Chemistry +Lab,1,16,16
+202601,10090,CHE,115,D,Principles of Chemistry +Lab,1,16,16
+202601,10091,CHE,115,E,Principles of Chemistry +Lab,1,15,16
+202601,10092,CHE,115,F,Principles of Chemistry +Lab,1,16,16
+202601,10093,CHE,220,A,Intro to Analytical Chem +Lab,1,16,16
+202601,10094,CHE,220,B,Intro to Analytical Chem +Lab,1,16,16
+202601,10095,CHE,230,A,Intro to Biological Chem +Lab,1,12,16
+202601,10096,CHE,230,B,Intro to Biological Chem +Lab,1,13,16
+202601,10097,CHE,250,A,Intro to Organic Chem +Lab,1,16,16
+202601,10098,CHE,250,B,Intro to Organic Chem +Lab,1,16,16
+202601,10099,CHE,250,C,Intro to Organic Chem +Lab,1,16,14
+202601,10100,CHE,250,D,Intro to Organic Chem +Lab,1,16,14
+202601,10101,CHE,260,A,Thermodynamics & Kinetics +Lab,1,11,12
+202601,10102,CHE,260,B,Thermodynamics & Kinetics +Lab,1,11,12
+202601,10103,CHE,260,C,Thermodynamics & Kinetics +Lab,1,12,12
+202601,10104,CHE,330,A,Experimtl Biological Chem +Lab,1,8,8
+202601,10105,CHE,330,B,Experimtl Biological Chem +Lab,1,4,8
+202601,10106,CHE,350,A,Experimtl Organic Chem +Lab,1,13,12
+202601,10107,CHE,350,B,Experimtl Organic Chem +Lab,1,13,12
+202601,10108,CHE,374,A,Medicinal Chemistry,1,16,16
+202601,10109,CHE,420,A,Seminar Analytical Chemistry,1,8,12
+202601,10110,CHI,101,A,Elementary Chinese I,1,9,15
+202601,10111,CHI,101,B,Elementary Chinese I,1,9,8
+202601,10112,CHI,122,A,CHI Visual Culture 50 Objects,1,18,22
+202601,10113,CHI,201,A,Intermediate Chinese I,1,6,18
+202601,10114,CHI,201,B,Intermediate Chinese I,1,8,18
+202601,10115,CHI,301,A,Pre-Advanced Chinese I,1,4,15
+202601,10117,CHI,401,A,Advanced Chinese I,1,5,12
+202601,10118,CHI,405,A,Cinema & Modern Literature,1,6,12
+202601,10121,CIS,495,A,Thesis I/Capstone,1,14,30
+202601,10122,CLA,111,A,The Ancient World,1,23,30
+202601,10123,CLA,140,A,Anc Medit Art & Archaeology,1,23,30
+202601,10124,CLA,243,A,In the Shadow of Vesuvius,1,20,30
+202601,10125,CLA,480,A,Senior Research Seminar,1,5,12
+202601,10126,COM,101,A,Princ of Oral Communication,1,16,16
+202601,10127,COM,101,B,Princ of Oral Communication,1,16,16
+202601,10128,COM,101,C,Princ of Oral Communication,1,16,16
+202601,10129,COM,201,A,Intro to Communication Studies,1,29,30
+202601,10130,COM,202,A,Rhetorical Criticism,1,9,20
+202601,10131,COM,218,A,Gendered Com in Society,1,18,20
+202601,10132,COM,225,A,Interpersonal Communication,1,16,20
+202601,10133,COM,280,A,Intercultural Communication,1,18,20
+202601,10134,COM,312,A,Resistance Rhetorics,1,11,15
+202601,10135,COM,328,A,Social Media Communication,1,4,15
+202601,10136,COM,390,A,Land&Legacies:Environ Rhetoric,1,6,15
+202601,10137,COM,496,A,Thesis I,1,1,10
+202601,10138,CSC,108,A,Exploring Computer Science,1,21,20
+202601,10139,CSC,110,A,Data Science & Society,1,24,24
+202601,10141,CSC,121,A,Programming & Problem Solving,1,24,24
+202601,10142,CSC,121,B,Programming & Problem Solving,1,7,24
+202601,10143,CSC,121,C,Programming & Problem Solving,1,12,24
+202601,10144,CSC,221,A,Data Structures,1,15,24
+202601,10145,CSC,221,B,Data Structures,1,11,24
+202601,10146,CSC,250,A,Computer Organization,1,23,24
+202601,10147,CSC,321,A,Analysis of Algorithms,1,4,24
+202601,10148,CSC,351,A,Operating Systems,1,21,24
+202601,10149,CSC,354,A,Applied Cryptography,1,12,24
+202601,10150,CSC,355,A,Compiler Design,1,7,24
+202601,10151,CSC,363,A,Human Computer Interaction,1,13,24
+202601,10152,CSC,370,A,Machine Reasoning,1,24,24
+202601,10153,CSC,383,A,Linear & Discrete Optimization,1,7,24
+202601,10154,DAN,101,A,Introduction to Dance Studies,1,31,30
+202601,10155,DAN,240,A,Modern Dance Technique I,1,15,15
+202601,10156,DAN,246,A,Odissi Dance Technique I,1,10,15
+202601,10158,DAT,153,A,Database Programming,1,19,24
+202601,10161,DIG,245,A,Critical Web Design,1,8,12
+202601,10162,DIG,250,A,Game Development,1,7,12
+202601,10163,DIG,255,A,Art for Games,1,4,12
+202601,10164,ECO,101,A,Introductory Economics,1,30,30
+202601,10165,ECO,101,B,Introductory Economics,1,31,28
+202601,10166,ECO,101,C,Introductory Economics,1,30,30
+202601,10167,ECO,101,D,Introductory Economics,1,32,30
+202601,10168,ECO,202,A,Intermed Microeconomic Theory,1,30,25
+202601,10169,ECO,202,B,Intermed Microeconomic Theory,1,30,25
+202601,10170,ECO,203,A,Intermed Macroeconomic Theory,1,14,29
+202601,10171,ECO,203,B,Intermed Macroeconomic Theory,1,16,29
+202601,10172,ECO,204,A,Stats & Basic Econometrics,1,21,20
+202601,10173,ECO,204,B,Stats & Basic Econometrics,1,21,20
+202601,10174,ECO,205,A,Econometrics,1,19,20
+202601,10175,ECO,205,B,Econometrics,1,20,20
+202601,10176,ECO,211,A,Introduction to Accounting,1,33,30
+202601,10177,ECO,211,B,Introduction to Accounting,1,32,30
+202601,10178,ECO,213,A,Cost Accounting,1,28,30
+202601,10179,ECO,221,A,Economic History of the US,1,33,27
+202601,10180,ECO,227,A,Economics of Gender & Family,1,30,30
+202601,10181,ECO,232,A,Economics of Migration,1,16,30
+202601,10183,ECO,238,A,"Fin. Mkts, Inst & Policy",1,30,30
+202601,10185,ECO,322,A,Health Economics,1,27,30
+202601,10186,ECO,341,A,Applied Policy Impact Evaluatn,1,5,30
+202601,10187,ECO,386,A,Federal Reserve Challenge,1,7,14
+202601,10188,ECO,494,H,Honors Thesis Research,1,7,12
+202601,10189,ECO,495,A,Contemporary Economic Issues,1,12,8
+202601,10190,EDU,121,A,Foundations of American Educ,1,26,25
+202601,10193,EDU,291,A,Data in Education,1,24,30
+202601,10194,EDU,292,A,Theory of Sports Coaching,1,27,25
+202601,10196,EDU,361,A,Bilingualism & Literacy,1,7,20
+202601,10197,EDU,385,A,"Race, Families, and Inequality",1,8,12
+202601,10198,EDU,400,A,Dir Field Placement-Education,1,7,10
+202601,10199,EDU,495,A,Capstone,1,8,20
+202601,10200,ENG,110,A,History of Nature Writing,1,29,30
+202601,10201,ENG,110,B,Caribbean Literature,1,7,30
+202601,10202,ENG,110,C,Lyric: Sappho to Taylor Swift,1,30,30
+202601,10203,ENG,201,A,Intro to Creative Nonfiction,1,12,12
+202601,10204,ENG,203,A,Introduction to Writing Poetry,1,12,12
+202601,10205,ENG,204,A,Intro to Writing Fiction,1,12,12
+202601,10206,ENG,205,A,Intro to Screenwriting,1,12,10
+202601,10207,ENG,220,A,Literary Analysis,1,20,20
+202601,10208,ENG,260,A,British Literature Since 1800,1,9,30
+202601,10209,ENG,280,A,American Literature,1,24,30
+202601,10210,ENG,284,A,Fictions of Empire,1,11,30
+202601,10211,ENG,285,A,Politcs&Perform 20thC Theatre,1,0,0
+202601,10212,ENG,293,A,New Fables of E Asian Diaspora,1,25,25
+202601,10213,ENG,320,A,Book Lab,1,12,11
+202601,10214,ENG,353,A,Shakespeare and the Law,1,24,24
+202601,10215,ENG,360,A,Desire,1,8,24
+202601,10216,ENG,361,A,Decadence and Seduction,1,6,24
+202601,10217,ENG,377,I,Forms of Young Adult Lit,1,12,21
+202601,10218,ENG,404,A,Writing the Sexy Novella,1,13,11
+202601,10219,ENG,488,A,Contemporary American Fiction,1,13,8
+202601,10220,ENG,498,A,Abbott Honors Symposium,1,11,15
+202601,10221,ENV,160,A,Environmental Justice,1,26,30
+202601,10227,ENV,214,A,"Energy,Environ,EnginDesign+Lab",1,0,0
+202601,10228,ENV,214,B,"Energy,Environ,EnginDesign+Lab",1,0,0
+202601,10229,ENV,219,A,Weather & Climate,1,20,30
+202601,10230,ENV,237,A,Intro to Interdisciplinary GIS,1,11,12
+202601,10231,ENV,245,A,"Water, Environment, & Society",1,13,20
+202601,10232,ENV,256,A,Environmental History,1,19,20
+202601,10234,ENV,498,A,Capstone,1,15,15
+202601,10235,ENV,498,B,Capstone,1,8,17
+202601,10236,FMD,320,A,Hollywood Cartoons,1,5,20
+202601,10237,FMD,498,A,Senior Capstone,1,10,12
+202601,10238,FMS,150,A,Global Cinema,1,29,30
+202601,10239,FMS,220,A,Intro to Film & Media Studies,1,31,30
+202601,10240,FRE,101,A,Elementary French I,1,13,18
+202601,10241,FRE,101,B,Elementary French I,1,17,18
+202601,10242,FRE,102,A,Elementary French II,1,7,18
+202601,10243,FRE,201,A,Intermediate French,1,17,18
+202601,10244,FRE,201,B,Intermediate French,1,18,18
+202601,10245,FRE,220,A,Francophone Humanities,1,13,20
+202601,10246,FRE,290,A,Indep Study for Non-Majors,1,0,0
+202601,10248,FRE,390,A,Independent Study for Majors,1,0,0
+202601,10249,FRE,491,A,Migration in the Fre-speaki Wr,1,6,10
+202601,10251,GER,101,A,What Is German? I,1,17,20
+202601,10252,GER,201,A,German Stories and Histories I,1,14,20
+202601,10254,GER,301,A,Memory & Belonging I,1,5,16
+202601,10255,GER,302,A,Memory& Belonging II,1,4,16
+202601,10256,GER,403,A,Kultur der Weimarer Republik,1,5,12
+202601,10258,GRE,201,A,Intermediate Greek,1,5,20
+202601,10260,GSS,101,A,Intro to Gender & Sexuality,1,30,30
+202601,10262,GSS,240,A,Queer Theologies,1,8,30
+202601,10264,HIS,112,A,Early Medieval Europe,1,31,32
+202601,10265,HIS,122,A,Making Modern Europe,1,30,32
+202601,10267,HIS,162,A,Latin America to 1825,1,24,32
+202601,10268,HIS,183,A,East Asian History to 1850,1,29,32
+202601,10269,HIS,248,A,The Native South,1,16,16
+202601,10270,HIS,255,A,American Popular Culture,1,15,16
+202601,10271,HIS,276,A,"Zionism, Israel, Palestine",1,16,16
+202601,10272,HIS,321,A,Port Cities & Maritime World,1,8,24
+202601,10273,HIS,355,A,American Legal History,1,20,24
+202601,10274,HIS,357,A,The Civil Rights Movement,1,16,24
+202601,10275,HIS,424,A,French & Haitian Revolutions,1,13,12
+202601,10276,HIS,480,A,Senior Research Seminar,1,21,30
+202601,10280,HIS,488,A,Kelley Honors Seminar,1,8,12
+202601,10281,HUM,103,A,Connections and Conflicts I,2,41,45
+202601,10288,HUM,195,A,Adv Studies in Humanities I,1,6,12
+202601,10289,LAS,101,A,Intro Latin American Studies,1,21,24
+202601,10290,LAS,251,A,Latinx Citizenship,1,7,18
+202601,10291,LAS,260,A,"Food, Gender, and Race",1,13,18
+202601,10292,LAS,342,A,"Race, Power, and Latinidad",1,4,18
+202601,10293,LAT,101,A,Introductory Latin I,1,12,20
+202601,10294,LAT,201,A,Intermediate Latin,1,13,20
+202601,10295,LAT,201,B,Intermediate Latin,1,6,20
+202601,10296,LAT,225,A,Ovid: Curse Poetry,1,4,10
+202601,10297,LAT,325,A,Adv Ovid: Curse Poetry,1,3,10
+202601,10298,MAT,105,A,Introduction to Statistics,1,16,20
+202601,10299,MAT,105,B,Introduction to Statistics,1,19,20
+202601,10300,MAT,108,A,Exploring Mathematical Ideas,1,18,26
+202601,10301,MAT,111,A,Calculus I - No Prev Exposure,1,25,26
+202601,10302,MAT,112,A,Calculus I and Modeling,1,26,26
+202601,10303,MAT,112,B,Calculus I and Modeling,1,26,26
+202601,10304,MAT,112,C,Calculus I and Modeling,1,23,26
+202601,10305,MAT,113,A,Calculus II,1,10,26
+202601,10306,MAT,113,B,Calculus II,1,20,26
+202601,10307,MAT,140,A,Multivar Calculus & Modeling,1,22,26
+202601,10308,MAT,150,A,Linear Algebra,1,21,24
+202601,10309,MAT,150,B,Linear Algebra,1,11,24
+202601,10310,MAT,160,A,Calculus III,1,6,26
+202601,10311,MAT,160,B,Calculus III,1,20,26
+202601,10312,MAT,210,A,Mathematical Modeling,1,26,24
+202601,10313,MAT,230,A,Sets and Proofs,1,10,20
+202601,10314,MAT,230,B,Sets and Proofs,1,20,20
+202601,10315,MAT,235,A,Differential Equations,1,28,24
+202601,10316,MAT,330,A,Real Analysis I,1,19,24
+202601,10317,MAT,340,A,Probability,1,24,24
+202601,10318,MAT,353,A,Number Theory,1,4,24
+202601,10319,MAT,365,A,Geometry,1,5,24
+202601,10320,MIL,101,A,Introduction to the Army,0,1,5
+202601,10321,MIL,101,L,Leadership Lab Indv Tasks 1,0,1,5
+202601,10322,MIL,201,A,Leadership and Ethics,0,2,10
+202601,10323,MIL,201,L,Leadership Lab Indvl Tasks 2,0,2,10
+202601,10324,MIL,301,A,Trng Mgmt and the Warfght Func,1,5,10
+202601,10325,MIL,301,L,Leadership Lab Indv Tasks 3,0,5,10
+202601,10326,MIL,401,A,The Army Officer,0,0,10
+202601,10327,MIL,401,L,Leadership Lab Indv Tasks 4,0,0,10
+202601,10328,MUS,006,A,Piano Ensemble,0,14,30
+202601,10329,MUS,010,A,Chamber Singers,0,18,30
+202601,10330,MUS,011,A,Jazz Ensemble,0,12,30
+202601,10331,MUS,012,A,Symphony Orchestra,0,54,30
+202601,10332,MUS,013,A,Chorale,0,52,50
+202601,10333,MUS,018,A,Jazz Combo,0,9,30
+202601,10334,MUS,019,A,Chamber Music,0,10,30
+202601,10335,MUS,019,B,Chamber Music,0,5,30
+202601,10336,MUS,019,C,Chamber Music,0,0,30
+202601,10337,MUS,021,A,Appalachian Ensemble,0,10,30
+202601,10338,MUS,043,A,African Drumming Ensemble,0,0,30
+202601,10339,MUS,050,A,Vocal/Inst'l Study-1/2Hr - P/F,0,13,30
+202601,10340,MUS,050,B,Vocal/Inst'l Study-1/2Hr - P/F,0,0,30
+202601,10341,MUS,050,C,Vocal/Inst'l Study-1/2Hr - P/F,0,2,30
+202601,10342,MUS,050,D,Vocal/Inst'l Study-1/2Hr - P/F,0,0,30
+202601,10343,MUS,050,E,Vocal/Inst'l Study-1/2Hr - P/F,0,2,30
+202601,10344,MUS,050,F,Vocal/Inst'l Study-1/2Hr - P/F,0,2,30
+202601,10345,MUS,055,A,Vocal/Inst'l Study-1 Hr P/F,0,59,30
+202601,10346,MUS,055,B,Vocal/Inst'l Study-1 Hr P/F,0,0,30
+202601,10347,MUS,055,C,Vocal/Inst'l Study-1 Hr P/F,0,11,30
+202601,10348,MUS,055,D,Vocal/Inst'l Study-1 Hr P/F,0,2,30
+202601,10349,MUS,055,E,Vocal/Inst'l Study-1 Hr P/F,0,5,30
+202601,10350,MUS,055,F,Vocal/Inst'l Study-1 Hr P/F,0,3,30
+202601,10351,MUS,101,A,Music Theory,1,18,20
+202601,10352,MUS,121,A,Music in Western Civilization,1,29,30
+202601,10353,MUS,155,A,Music Lessons: First Level,1,14,30
+202601,10354,MUS,155,B,Music Lessons: First Level,1,0,30
+202601,10355,MUS,155,C,Music Lessons: First Level,1,0,30
+202601,10356,MUS,155,D,Music Lessons: First Level,1,1,30
+202601,10357,MUS,155,E,Music Lessons: First Level,1,0,30
+202601,10358,MUS,155,F,Music Lessons: First Level,1,2,30
+202601,10359,MUS,246,A,Music of Brazil,1,15,25
+202601,10360,MUS,255,A,Music Lessons: Intermediate,1,5,30
+202601,10361,MUS,255,B,Music Lessons: Intermediate,1,0,30
+202601,10362,MUS,255,C,Music Lessons: Intermediate,1,1,30
+202601,10363,MUS,261,A,Introduction to Composition,1,4,6
+202601,10364,MUS,265,A,Intro Digital Music Comp,1,6,6
+202601,10365,MUS,346,A,Adv Music of Brazil,1,2,5
+202601,10366,MUS,356,A,Music Lessons Adv Intermediate,1,5,30
+202601,10367,MUS,356,B,Music Lessons Adv Intermediate,1,0,30
+202601,10368,MUS,356,C,Music Lessons Adv Intermediate,1,1,30
+202601,10369,MUS,357,A,Music Lessons: Advanced,1,7,30
+202601,10370,MUS,401,A,Senior Seminar,1,5,20
+202601,10371,PBH,110,A,Introduction to Public Health,1,30,30
+202601,10372,PBH,110,B,Introduction to Public Health,1,30,30
+202601,10373,PBH,250,A,Public Health Methods,1,9,20
+202601,10374,PBH,375,A,US Maternal Health Disparities,1,9,12
+202601,10375,PHI,105,A,Ancient Greek Philosophy,1,27,30
+202601,10376,PHI,107,A,Medieval Philosophy,1,27,25
+202601,10377,PHI,110,A,Problems of Philosophy,1,30,28
+202601,10378,PHI,120,A,Applied Ethics,1,27,29
+202601,10379,PHI,150,A,Conceptions of the Self,1,22,25
+202601,10380,PHI,200,A,Symbolic Logic,1,17,30
+202601,10381,PHI,212,A,Metaphysics,1,26,25
+202601,10382,PHI,213,A,Philosophy of Science,1,11,25
+202601,10383,PHI,215,A,Ethics,1,33,30
+202601,10384,PHI,225,A,Philosophy of Religion,1,18,25
+202601,10385,PHI,235,A,Existentialism,1,25,25
+202601,10386,PHI,350,A,Seminar in Phil: Democracy,1,13,16
+202601,10387,PHY,125,A,Gen Physics +Calc I:Studio+Lab,1,15,9
+202601,10388,PHY,125,B,Gen Physics +Calc I:Studio+Lab,1,15,14
+202601,10389,PHY,125,C,Gen Physics +Calc I:Studio+Lab,1,14,12
+202601,10390,PHY,125,D,Gen Physics +Calc I:Studio+Lab,1,16,14
+202601,10391,PHY,125,E,Gen Physics +Calc I:Studio+Lab,1,12,12
+202601,10392,PHY,125,F,Gen Physics +Calc I:Studio+Lab,1,15,14
+202601,10393,PHY,214,A,"Energy,Environ,EnginDesign+Lab",1,8,12
+202601,10394,PHY,214,B,"Energy,Environ,EnginDesign+Lab",1,11,12
+202601,10395,PHY,235,A,Gen PhysicsII +Calc:Studio+Lab,1,25,30
+202601,10396,PHY,305,A,Intro to Modern Physics +Lab,1,8,7
+202601,10397,PHY,305,B,Intro to Modern Physics +Lab,1,10,7
+202601,10398,PHY,315,A,Electronics&Instrumentatn +Lab,1,24,16
+202601,10399,PHY,330,A,Classical Mechanics,1,26,24
+202601,10400,PHY,360,A,Quantum Mechanics I,1,18,20
+202601,10401,PHY,400,A,Statistical & Thermal Physics,1,9,20
+202601,10402,POL,101,A,Contemp Political Ideologies,1,30,30
+202601,10403,POL,121,A,American Politics,1,27,30
+202601,10404,POL,140,A,Comparative Politics,1,29,29
+202601,10405,POL,161,A,Intro to Int'l Relations,1,24,24
+202601,10406,POL,161,B,Intro to Int'l Relations,1,26,25
+202601,10407,POL,180,A,Intro to Policy Analysis,1,30,30
+202601,10408,POL,182,A,Intro to Research Methods,1,30,30
+202601,10409,POL,202,A,Classical Political Theory,1,23,30
+202601,10411,POL,220,A,The U.S. Congress,1,28,30
+202601,10413,POL,291,A,Politics of the Middle East,1,23,25
+202601,10414,POL,293,A,Politics of the Americas,1,28,30
+202601,10415,POL,327,A,Civil Liberties,1,28,30
+202601,10416,POL,342,A,China Pol Econ Society,1,17,30
+202601,10417,POL,360,A,International Pol. Economy,1,21,30
+202601,10418,POL,362,A,American Foreign Policy,1,20,30
+202601,10419,POL,365,A,IR of the Asia Pacific Region,1,16,30
+202601,10420,POL,381,A,Philanthropy & Non-Profit Sect,1,30,30
+202601,10421,POL,423,A,Politics of Reproduction,1,7,12
+202601,10422,POL,448,A,Rise and Fall of Democracy,1,16,12
+202601,10423,POL,449,A,Politics and Governance,1,10,12
+202601,10424,POL,459,A,"Religion, Politics, and Law",1,12,12
+202601,10425,PPE,101,A,Introduction to PPE,1,31,27
+202601,10426,PPE,401,A,Advanced Topics in PPE,1,18,24
+202601,10427,PSY,101,A,General Psychology,1,36,40
+202601,10428,PSY,101,B,General Psychology,1,40,40
+202601,10429,PSY,101,C,General Psychology,1,33,40
+202601,10430,PSY,200,A,Research Design & Statistics 1,1,24,24
+202601,10431,PSY,226,A,Death & Dying,1,8,32
+202601,10432,PSY,231,A,Abnormal Psychology,1,30,32
+202601,10433,PSY,232,A,Social Psychology,1,27,32
+202601,10434,PSY,235,A,Cultural Psychology,1,20,32
+202601,10435,PSY,240,A,Psychological Interventions,1,13,32
+202601,10436,PSY,242,A,Educational Psychology,1,29,30
+202601,10437,PSY,245,A,Psychology of Aging,1,11,32
+202601,10438,PSY,280,A,Human Neuropsychology,1,32,32
+202601,10439,PSY,300,A,Research Design & Statistics 2,1,24,24
+202601,10440,PSY,303,A,Psy Research: Behavioral Neuro,1,17,16
+202601,10441,PSY,312,A,Psy Res: Data Visualization,1,5,16
+202601,10443,PSY,318,A,Psy Research: Social Psy,1,7,8
+202601,10444,PSY,318,B,Psy Research: Social Psy,1,8,8
+202601,10445,PSY,350,A,Adv Sem: Lang Learning and Dev,1,8,12
+202601,10446,PSY,354,A,Adv Sem: Med Rehab Disability,1,10,12
+202601,10447,PSY,362,A,Adv Sem: Early Social Learning,1,9,12
+202601,10448,PSY,364,A,Adv Sem: Sci of Relationships,1,11,12
+202601,10449,PSY,401,A,Capstone: Issues in Psychology,1,10,12
+202601,10450,REL,111,A,Environment and Spirituality,1,13,14
+202601,10452,REL,279,A,Nature & Ecology in Islam,1,15,30
+202601,10453,REL,287,A,Hinduism as it is Lived,1,27,30
+202601,10457,REL,401,A,Doing Religious Studies,1,5,12
+202601,10458,REL,475,A,Religion vs Cults,1,12,12
+202601,10459,RUS,101,A,Elementary Russian I,1,7,20
+202601,10460,RUS,201,A,Intermediate Russian I,1,5,20
+202601,10461,RUS,319,A,Adv Russian:Contemp Culture,1,0,5
+202601,10462,RUS,419,A,Adv Russian II:Contemp Culture,1,4,5
+202601,10463,RUS,495,A,Capstone/Thesis I,1,3,0
+202601,10464,SIL,115,A,Beginning Italian,1,2,5
+202601,10465,SIL,132,A,Continuing Modern Greek,1,0,5
+202601,10466,SIL,141,A,Beginning Brazilian Portuguese,1,2,5
+202601,10467,SIL,181,A,Beginning Swahili,1,0,5
+202601,10468,SIL,185,A,Beginning Japanese,1,0,5
+202601,10469,SOC,201,A,Social Statistics,1,17,20
+202601,10470,SOC,205,A,Racial and Ethnic Relations,1,10,30
+202601,10471,SOC,210,A,Democracy & Political Elites,1,9,30
+202601,10472,SOC,232,A,Medical Sociology,1,32,30
+202601,10473,SOC,316,A,Digital Media & Social Change,1,6,16
+202601,10474,SOC,373,A,Contemporary Social Theory,1,8,15
+202601,10475,SPA,101,A,Fundamentals Span Hisp Cult I,1,17,18
+202601,10476,SPA,102,A,Fundamentals Span Hisp Cult II,1,16,18
+202601,10477,SPA,102,B,Fundamentals Span Hisp Cult II,1,15,18
+202601,10478,SPA,102,C,Fundamentals Span Hisp Cult II,1,15,18
+202601,10479,SPA,102,D,Fundamentals Span Hisp Cult II,1,18,18
+202601,10481,SPA,201,A,Developing Span Lang Hisp Cult,1,16,18
+202601,10482,SPA,201,B,Developing Span Lang Hisp Cult,1,15,18
+202601,10483,SPA,201,C,Developing Span Lang Hisp Cult,1,17,18
+202601,10484,SPA,201,D,Developing Span Lang Hisp Cult,1,18,18
+202601,10485,SPA,201,E,Developing Span Lang Hisp Cult,1,18,16
+202601,10486,SPA,260,A,Conversation & Composition,1,5,12
+202601,10487,SPA,260,B,Conversation & Composition,1,11,12
+202601,10488,SPA,260,C,Conversation & Composition,1,9,12
+202601,10490,SPA,305,A,Intro to Hispanic Linguistics,1,10,16
+202601,10491,SPA,325,A,Dying of Love in Medieval Spa,1,7,16
+202601,10492,SPA,420,A,"Life-Writing,Performance&Narr",1,4,12
+202601,10493,SPA,490,A,Senior Capstone Seminar,1,6,8
+202601,10494,SPA,490,B,Senior Capstone Seminar,1,8,8
+202601,10501,THE,110,A,Thinking Creatively,1,30,30
+202601,10502,THE,235,A,Fundamentals of Stage Design,1,10,10
+202601,10503,THE,245,A,Acting I,1,12,12
+202601,10504,THE,245,B,Acting I,1,12,12
+202601,10505,THE,285,A,Politcs&Perform 20thC Theatre,1,16,16
+202601,10506,THE,355,A,Directing I,1,3,8
+202601,10507,THE,386,A,Voice Movement for Actors&Lab,1,6,10
+202601,10521,WRI,101,A,According to Science,1,12,12
+202601,10522,WRI,101,B,Abolitionist Futures,1,12,12
+202601,10523,WRI,101,C,The Politics of Love,1,12,12
+202601,10525,WRI,101,E,Critical Read & Critical Write,1,12,12
+202601,10526,WRI,101,F,Atheism,1,12,12
+202601,10527,WRI,101,G,"Voice, Identity, Self",1,12,12
+202601,10528,WRI,101,H,The Linguists' Dilemma,1,11,12
+202601,10529,WRI,101,I,The Politics of Love,1,12,12
+202601,10530,WRI,101,J,Being Human,1,12,12
+202601,10531,WRI,101,K,Atheism,1,12,12
+202601,10532,WRI,101,L,Bad Art,1,11,12
+202601,10533,WRI,101,M,Humanizing Monsters,1,12,12
+202601,10534,WRI,101,N,#MeToo,1,12,12
+202601,10536,WRI,101,P,Archives: Knowledge & Power,1,12,12
+202601,10537,WRI,101,Q,Genius,1,12,12
+202601,10538,WRI,101,R,War and Memory,1,12,12
+202601,10539,WRI,101,S,Pop Culture & Health Comm,1,12,12
+202601,10540,WRI,101,T,Monsters and Misfits,1,13,12
+202601,10541,WRI,101,U,The Trial of Jesus,1,12,12
+202601,10542,WRI,101,V,Medicine and Otherness,1,12,12
+202601,10543,WRI,101,W,Writing about Physics & Tech,1,11,12
+202601,10544,WRI,101,X,Philosophy of Sex,1,12,12
+202601,10545,XPL,199,A,High Impact Experiential Lrnin,1,16,16
+202601,10547,LAS,102,A,Intro to Latinx Studies,1,7,24
+202601,10548,MUS,045,A,Vocal Class,0,0,50
+202601,10549,EDU,300,A,The Politics of Education,1,20,20
+202601,10550,SPA,271,A,Hispanic Humanities I,1,8,16
+202601,10551,SPA,272,A,Hispanic Humanities II,1,16,16
+202601,10552,SPA,306,A,Hispanic Bilingual Communities,1,13,16
+202601,10553,SPA,315,A,Teaching Spa in Elem School,1,8,16
+202601,10554,SPA,343,A,Spanish Civil War,1,4,16
+202601,10555,SPA,378,A,Beauty&Marginality in Lat Amer,1,6,16
+202601,10556,GRE,233,A,Greek Tragedy: Antigone,1,1,10
+202601,10557,GRE,333,A,Adv Greek Tragedy: Antigone,1,2,10
+202601,10559,CIS,370,A,Lit of Catastrophe:Writing Lab,1,4,16
+202601,10560,FRE,332,A,Mediterranean Ecologies,1,23,20
+202601,10561,CIS,380,A,Contemporary Reportage,1,7,16
+202601,10562,DIG,101,A,Intro to Digital Studies,1,16,30
+202601,10564,SOC,101,A,Introductory Sociology,1,30,30
+202601,10565,SOC,227,A,Urban Sociology,1,17,20
+202601,10566,BIO,393,A,Advances in Genome Editing,1,5,12
+202601,10568,MAT,230,C,Sets and Proofs,1,7,20
+202601,10569,MUS,222,A,"Sounding, Listening, Knowing",1,13,30
+202601,10571,XPL,199,B,High Impact Experiential Lrnin,1,5,16
+202601,10572,BIO,358,A,Songbird Social Brain Research,1,6,5
+202601,10573,DAT,342,A,Data Engineering and Analytics,1,11,24
+202601,10574,ENV,101,A,Environmental Science +Lab,1,12,11
+202601,10575,ENV,101,B,Environmental Science +Lab,1,4,3
+202601,10576,ENV,101,C,Environmental Science +Lab,1,12,11
+202601,10577,ENV,101,D,Environmental Science +Lab,1,4,3
+202601,10578,ENV,102,A,Environmental Social Sciences,1,28,30
+202601,10579,EDU,345,A,Early Childhood Education,1,11,30
+202601,10581,COM,101,D,Princ of Oral Communication,1,15,16
+202601,10583,REL,179,A,From Taj Mahal to Taliban,1,17,30
+202601,10584,REL,284,A,Zen Buddhism,1,30,30
+202601,10586,REL,260,A,Myths America Lives By,1,28,30
+202601,10587,REL,161,A,GodLoveSex,1,29,30
+202601,10588,ART,103,C,Basic Painting,1,6,6
+202601,10589,ART,103,D,Basic Painting,1,6,6
+202601,10590,PHY,305,C,Intro to Modern Physics +Lab,1,10,6
+202601,10591,DAN,294,A,Dance on Screen,1,3,12
+202601,10592,POL,324,A,American Judicial Politics,1,20,30
+202601,10594,AFR,155,A,Afro (Latin) American Art,1,13,15
+202601,10595,FRE,324,A,Migration in the Fre-speaki Wr,1,2,10
+202601,10596,MUS,103,A,World Music Theory,1,20,20
+202601,10597,MUS,141,A,World Musics,1,30,30
+202601,10598,MUS,380,A,Music & The Colonial Encounter,1,4,30
+202601,10601,PSY,321,A,Qualitative Research Methods,1,8,8
+202601,10602,PSY,321,B,Qualitative Research Methods,1,7,8
+202601,10603,WRI,101,Z,News as the First Draft of His,1,12,12
+202601,10604,REL,269,A,Religious Worlds of South Asia,1,30,30
+202601,10606,SPA,101,B,Fundamentals Span Hisp Cult I,1,17,18
+202601,10607,SPA,102,E,Fundamentals Span Hisp Cult II,1,13,18
+202601,10611,GER,101,B,What Is German? I,1,10,20
+202601,10612,EDU,121,B,Foundations of American Educ,1,24,25
+202601,10613,ENV,130,A,Sustainability Science,1,21,30
+202601,10615,MAT,395,A,Learning R Thru Baseball Stats,1,4,0
+202601,10616,WRI,101,AA,Activism in Lat. Amer. Film,1,12,12
+202601,10617,EDU,330,A,Sociology of Education,1,8,20
+202601,10618,WRI,101,O,Black Feminist Art Practices,1,7,12
+202601,10620,SOC,395,A,Healthcare Access & Inequality,1,1,0
+202601,10621,ARB,395,A,Accelerated Persian,1,1,0
+202601,10622,ECO,395,A,Mathematical Economics,1,1,0
+202601,10623,AFR,498,A,Independent Study: Thesis,1,1,0
+202601,10624,PSY,330,A,Clinical Neuropsychology,1,1,0
+202601,10625,ECO,395,B,M&A Run-ups: Market Fairness,1,1,0
+202601,10626,ARB,396,A,Advanced MSA,1,1,0
+202601,10627,SIL,125,A,Beginning Korean,1,3,5
+202601,10628,SIL,120,A,Beginning American Sign Lang,1,8,10
+202601,10629,SOC,395,B,Organizational Identity,1,1,0
+202601,10630,ECO,202,C,Intermed Microeconomic Theory,1,13,30
+202601,10631,PHY,495,A,Independent Research,1,5,0
+202601,10632,SPA,319,A,Theories in 2nd Lang. Acq.,1,2,0
+202601,10633,SPA,498,A,Honors Thesis,1,1,0
+202601,10634,PSY,330,B,Adv Independent Study in PSY,1,1,0
+202601,10635,POL,385,A,Bureaucratic Autonomy,1,1,0
+202601,10636,ECO,395,C,Immigration's Impact on Wages,1,1,0
+202601,10637,BIO,371,A,Research in Biology I,1,2,0
+202601,10638,BIO,371,B,Research in Biology I,1,3,0
+202601,10639,BIO,371,C,Research in Biology I,1,1,0
+202601,10640,BIO,372,A,Research in Biology II,1,3,0
+202601,10641,ECO,396,A,"Mas-Colell, Whinston & Green",1,1,0
+202601,10642,PSY,330,C,Cognition in the Courtroom,1,1,0
+202601,10643,PSY,330,D,Adv Independent Study in PSY,1,2,0
+202601,10644,BIO,372,B,Research in Biology II,1,1,0
+202601,10645,PHY,495,B,NGn Detector Prototype Testing,1,1,0
+202601,10646,GER,398,A,Adv Grammar,1,2,0
+202601,10647,CSC,390,A,Advanced Ranking Methods,1,1,0
+202601,10648,CSC,395,A,Computer Architecture & FPGAs,1,1,0
+202601,10649,CSC,390,B,FPGA-based Secure Memory,1,1,0
+202601,10650,CSC,495,A,TEEs on RISC-V,1,1,0
+202601,10651,MAT,395,B,Stochastic Processes,1,1,1
+202601,10652,CSC,495,B,Applied Baseball Analytics,1,1,0
+202601,10655,EDU,395,A,Social Capital Across Divides,1,1,1
+202601,10656,COM,495,A,Communication Capstone,1,2,1
+202601,10657,MAT,395,C,Mathematics of Ranking,1,3,1
+202601,10658,MUS,395,A,Independent Study,1,1,0
+202601,10659,PSY,330,E,Adv. Psychology Tutorial,1,2,0
+202601,10660,ECO,295,A,Political Economy of AI,1,2,0
+202601,10661,PSY,195,A,Independent Study in PSY,1,1,0
+202601,10662,SOC,395,C,"Race, Education, & Identity",1,1,0
+202601,10663,BIO,372,C,Research in Biology II,1,1,0
+202601,10664,GER,498,A,Thesis Fall,1,1,0
+202601,10665,BIO,371,D,Research in Biology I,1,3,0
+202601,10666,PHY,495,C,Chiral Fluids and Plasmas,1,1,0
+202601,10667,BIO,371,E,Research in Biology I,1,1,0
+202601,10668,CHE,250,E,Intro to Organic Chem +Lab,1,17,16
+202601,10669,BIO,371,F,HIV Research,1,2,0
+202601,10670,BIO,371,G,Research in Biology I,1,3,0
+202601,10671,BIO,373,A,Research in Biology III,1,1,0
+202601,10672,BIO,371,H,Research in Biology I,1,1,0
+202601,10673,EDU,395,B,Schools and Society,1,1,0
+202601,10674,CHE,396,A,Glycoscience Research I,1,5,0
+202601,10675,BIO,371,I,Analysis of Protein C Pathway,1,1,0
+202601,10676,BIO,372,D,Research in Biology II,1,1,0
+202601,10677,BIO,374,A,Research in Biology IV,1,1,0
+202601,10678,CSC,395,B,Deep Learning for NLP,1,2,0
+202601,10679,BIO,372,E,Research in Biology II,1,1,0
+202601,10680,EAS,495,A,Senior Research & Thesis Semin,1,1,0
+202601,10681,BIO,373,B,Research in Biology III,1,1,0
+202601,10682,BIO,371,J,Research in Biology I,1,2,0
+202601,10683,ECO,395,D,Principles of Pharmacoeconomic,1,1,0
+202601,10684,MAT,395,D,Finite Element Analysis,1,1,0
+202601,10686,POL,485,A,Honors Thesis,1,1,0
+202601,10687,POL,485,B,Marxism and After: From Marx t,1,1,0
+202601,10688,ARB,395,B,Advanced Arabic and Culture,1,1,0
+202601,10689,CHE,496,A,Polymer Research,1,2,0
+202601,10690,ARB,396,B,Islamic Literature & Arabic,1,1,0
+202601,10691,PSY,297,A,Behavioral Neuroscience TA,1,1,0
+202601,10692,PSY,330,F,Psychology Thesis Tutorial,1,1,0
+202601,10693,CHE,396,B,Algae-Based Biodiesel,1,1,0
+202601,10694,CHE,397,A,Chemistry Research - II,1,1,0
+202601,10695,CHE,496,B,Senior Research I,1,3,0
+202601,10696,CHE,396,C,Polymer Research,1,5,0
+202601,10697,CHE,497,A,Senior Research II,1,2,0
+202601,10698,MAT,495,A,Honors Thesis,1,1,0
+202601,10699,CHE,397,B,Glycoscience Research II,1,2,0
+202601,10700,POL,485,C,Thesis Independent Study,1,1,0
+202601,10701,POL,485,D,Honors Thesis,1,1,0
+202601,10702,CHE,397,C,Polymer Research,1,1,0
+202601,10703,CHE,397,D,Laboratory Research II,1,1,0
+202601,10704,CHE,396,D,Chemistry Research I,1,4,0
+202601,10705,PSY,297,B,Practicum in Neuroscience,1,1,0
+202601,10706,PSY,290,A,Practicum in Psychology,1,2,0
+202601,10707,PSY,330,G,Adv Independent Study in PSY,1,3,0
+202601,10708,CHE,397,E,Glycoscience Research II,1,1,0
+202601,10709,MUS,395,B,Archives of Sound,1,1,0
+202601,10710,CHE,496,C,Senior Research I,1,3,0
+202601,10711,CHE,496,D,Senior Thesis Research I,1,3,0
+202601,10712,PSY,331,A,Tutorial in Psychology,1,1,0
+202601,10713,CHE,496,E,Quantum Research,1,1,0
+202601,10714,CHE,396,E,Laboratory Research I,1,2,0
+202601,10715,PSY,330,H,Psychology Tutorial,1,2,0
+202601,10716,POL,485,E,Theory and Practice of Marxism,1,1,0
+202601,10717,CHI,295,A,Independent Study,1,1,0
+202601,10718,CHI,295,B,Modern Chinese Lit Translation,1,1,0
+202601,10719,PHY,495,D,Honors Research,1,1,0
+202601,10720,ANT,396,A,Jazz Without Patriarchy,1,1,0
+202601,10721,PHY,395,A,"Fluid Mech. & Thermody, Solids",1,2,0
+202601,10722,SOC,395,D,Race and Gender in the MMIW Mo,1,1,0
+202601,10723,THE,393,A,Advanced Theatrical Design,1,2,0
+202601,10725,MUS,295,A,Instrumentalizing Religion,1,1,0
+202601,10726,POL,485,F,Honors Thesis,1,1,0
+202601,10727,PHY,395,B,Baja SAE,1,4,0
+202601,10728,POL,485,G,U.S. Immig Policy & Law,1,1,0
+202601,10729,CSC,395,C,SWE for Product Development,1,1,0
+202601,10730,FRE,498,B,French Honors Thesis,1,2,0
+202601,10731,THE,392,A,IS in Advanced Directing,1,1,0
+202601,10732,THE,498,A,Honors Research,1,1,0
+202601,10733,BIO,371,K,Research in Biology I,1,5,0
+202601,10734,ECO,295,B,Beyond Homo Economicus,1,1,0
+202601,10735,CHE,396,F,Laboratory Research I,1,1,0
+202601,10736,PSY,330,I,Facial Recognition,1,1,0
+202601,10737,POL,485,H,Advanced Independent Study,1,1,0
+202601,10738,ENG,395,A,Graphic Novel,1,1,0
+202601,10739,PHI,399,A,Non-Classical Logic,1,2,0
+202601,10740,POL,485,I,General Strikes & Trade Unions,1,1,0
+202601,10741,CHE,498,A,Inorganic Che Honors Thesis,1,1,0
+202601,10742,BIO,371,L,Research in Biology I,1,1,0
+202601,10743,BIO,372,F,Research in Biology II,1,1,0
+202601,10745,BIO,370,A,Applied Anatomy,1,5,0
+202601,10746,EDU,395,C,Youth Civic Engagement,1,1,0
+202601,10747,CSC,495,C,Dynamics of Agent Loops,1,1,0
+202601,10748,CHE,396,G,Hookah smoke chemistry,1,1,0
+202601,10750,GSS,498,A,Neurodiverse Relationships,1,1,0
+202601,10751,CSC,395,D,JIT Compiler IR analysis,1,1,0
+202601,10752,CSC,390,C,Predicting JIT Optimizations,1,1,0
+202601,10753,ANT,498,A,Honors Thesis,1,1,1
+202601,10754,SOC,395,E,Networking and Social Capital,1,1,1
+202601,10755,CHE,498,B,Honors Glycoscience Research,1,1,1
+202601,10756,CSC,390,D,AI Security and Alignment,1,1,1
+202601,10757,ANT,498,B,Honors Thesis,1,1,0
+202601,10758,SOC,330,A,Sociology of Education,1,0,10
+202601,10759,MUS,014,A,Opera Theatre Workshop,0,16,30
+202601,10760,SOC,395,F,Data Centers and Public Policy,1,1,0
+202601,10761,MUS,050,G,Vocal/Inst'l Study-1/2Hr - P/F,0,0,30
+202601,10762,MUS,055,G,Vocal/Instru Stdy-1 Hr. P/F,0,2,30
+202601,10763,MUS,255,D,Music Lessons: Intermediate,1,2,30
+202601,10764,MUS,357,B,Music Lessons: Advanced,1,1,30
+202601,10765,MUS,255,E,Music Lessons: Intermediate,1,5,30
+202601,10766,MUS,255,F,Music Lessons: Intermediate,1,3,30
+202601,10767,MUS,255,G,Music Lessons: Intermediate,1,1,30
+202601,10768,MUS,255,H,Music Lessons: Intermediate,1,1,30
+202601,10769,MUS,357,C,Music Lessons: Advanced,1,1,30
+202601,10770,MUS,055,H,Vocal/Instru Stdy-1 Hr. P/F,0,2,30
